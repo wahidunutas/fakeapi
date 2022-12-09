@@ -1,0 +1,54 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "bloods",
+            "kategori": {
+                "id": 1,
+                "nama" : "baju"
+            }
+        },
+        {
+            "id": 2,
+            "name": "frogstone",
+            "kategori": {
+                "id": 1,
+                "nama" : "baju"
+            }
+        },
+        {
+            "id": 3,
+            "name": "crooz",
+            "kategori": {
+                "id": 1,
+                "nama" : "baju"
+            }
+        },
+        {
+            "id": 4,
+            "name": "cargo",
+            "kategori": {
+                "id": 2,
+                "nama" : "celana"
+            }
+        },
+        {
+            "id": 5,
+            "name": "denim",
+            "kategori": {
+                "id": 2,
+                "nama" : "celana"
+            }
+        }
+    ],
+    "category" :[
+        {
+            "id": 1,
+            "name": "Baju"
+        },
+        {
+            "id": 2,
+            "name": "Celana"
+        }
+    ]
+}
